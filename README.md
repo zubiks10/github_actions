@@ -1,1 +1,1 @@
-# github_actions_leraning_classes
+# github_actions_learning_classes
