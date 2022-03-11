@@ -41,7 +41,7 @@ jobs:
           echo is git installed?
           git --version
           echo is docker installed
-          docker -version
+          docker -v
           
           
           
