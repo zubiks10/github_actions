@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo what is in this directory?
-          ls -la
+          ls -la & date
           echo
           echo is java instatlllation?
           java -version
