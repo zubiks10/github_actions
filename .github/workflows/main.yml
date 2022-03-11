@@ -42,7 +42,6 @@ jobs:
           git --version
           echo is docker installed?
           docker -v
-	  terrascan scan > /tmp/outnow
 
 
 
