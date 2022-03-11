@@ -42,6 +42,3 @@ jobs:
           git --version
           echo is docker installed?
           docker -v
-	  
-	  # Runs terrascan to policy detection	
-	  terrascan scan .
