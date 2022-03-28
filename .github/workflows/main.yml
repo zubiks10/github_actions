@@ -42,6 +42,12 @@ jobs:
           git --version
           echo is docker installed?
           docker -v
+          echo is regula installed?
+          regula version
+          echo is terrascan installed?
+          terrascan version
+          
+          
 
 
 
