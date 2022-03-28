@@ -42,8 +42,6 @@ jobs:
           git --version
           echo is docker installed?
           docker -v
-          echo is terrascan installed?
-          terrascan version
           
           
 
